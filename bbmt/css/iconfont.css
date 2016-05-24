@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'iconfont';
+  src: url('http://at.alicdn.com/t/font_1461830248_3524067.eot'); /* IE9*/
+  src: url('http://at.alicdn.com/t/font_1461830248_3524067.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('http://at.alicdn.com/t/font_1461830248_3524067.woff') format('woff'), /* chrome、firefox */
+  url('http://at.alicdn.com/t/font_1461830248_3524067.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url('http://at.alicdn.com/t/font_1461830248_3524067.svg#iconfont') format('svg'); /* iOS 4.1- */
+}
+                    
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:18px;
+  font-style:normal;
+  color:#666;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-shouji:before { content: "\e602"; }
+.icon-suo:before { content: "\e610"; }
+.icon-huaban:before { content: "\e60f"; }
+.icon-dingwei:before { content: "\e615"; }
+.icon-dingdan:before { content: "\e611"; }
+.icon-wode:before { content: "\e614"; }
+.icon-shangpin:before { content: "\e61a"; }
+.icon-sousuo:before { content: "\e612"; }
+.icon-wuliu:before{content: "\e617";}
+.icon-dianpushop:before{content: "\e613";}
+.icon-laba:before{content: "\e618";}
